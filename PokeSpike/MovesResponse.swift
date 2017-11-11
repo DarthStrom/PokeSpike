@@ -1,8 +1,8 @@
 import Foundation
 
-struct PokemonResponse: Codable {
+struct MovesResponse: Codable {
     let count: Int
     let previous: URL?
-    let results: [Pokemon]
+    let results: [Move]
     let next: URL?
 }
