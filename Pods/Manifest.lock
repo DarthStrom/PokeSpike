@@ -2,15 +2,24 @@ PODS:
   - Alamofire (4.5.1)
   - CodableAlamofire (1.1.0):
     - Alamofire (~> 4.0)
+  - Moxie (0.2.1)
+  - Nimble (7.0.2)
+  - Quick (1.2.0)
 
 DEPENDENCIES:
   - Alamofire (~> 4.5)
   - CodableAlamofire (~> 1.1)
+  - Moxie
+  - Nimble
+  - Quick
 
 SPEC CHECKSUMS:
   Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
   CodableAlamofire: e2d2edcec7cf413f7862c30c8fa98eded27a83f9
+  Moxie: 28aeb291a25dd3746d88b8d28767ea822b25f233
+  Nimble: bfe1f814edabba69ff145cb1283e04ed636a67f2
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
 
-PODFILE CHECKSUM: 7ede40588d8f6874d2e729a1e2b0896a9be9cadb
+PODFILE CHECKSUM: '05808f62fa4cbf3bdf7b3184832b76bc833c734b'
 
 COCOAPODS: 1.2.1
