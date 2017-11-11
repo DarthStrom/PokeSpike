@@ -1,0 +1,6 @@
+framework module Pods_PokeSpike {
+  umbrella header "Pods-PokeSpike-umbrella.h"
+
+  export *
+  module * { export * }
+}
